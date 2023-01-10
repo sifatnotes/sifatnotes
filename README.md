@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Didarul Islam Sifat</h1>
 <h3 align="center">A passionate novice Cybersecurity and Software Engineer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="leftt" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifatnotes&label=Profile%20views&color=0e75b6&style=flat" alt="sifatnotes" /> </p>
 
