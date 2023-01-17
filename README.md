@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.teahub.io/photos/full/284-2840046_photo-wallpaper-computer-the-room-hacker-the-world.jpg)
+![MasterHead](https://www.teahub.io/photos/full/284-2840046_photo-wallpaper-computer-the-room-hacker-the-world.jpg)
 
 <h1 align="center">Hi 👋, I'm Didarul Islam Sifat</h1>
 <h3 align="center">A passionate novice Cybersecurity and Software Engineer from Bangladesh</h3>
