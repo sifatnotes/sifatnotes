@@ -1,5 +1,10 @@
+
+[![MasterHead](https://www.teahub.io/photos/full/284-2840046_photo-wallpaper-computer-the-room-hacker-the-world.jpg)
+
 <h1 align="center">Hi 👋, I'm Didarul Islam Sifat</h1>
-<h3 align="center">A passionate Cybersecurity and Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate novice Cybersecurity and Software Engineer from Bangladesh</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+<img align="leftt" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifatnotes&label=Profile%20views&color=0e75b6&style=flat" alt="sifatnotes" /> </p>
 
@@ -36,6 +41,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sifatnotes&show_icons=true&locale=en&layout=compact" alt="sifatnotes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sifatnotes&show_icons=true&locale=en" alt="sifatnotes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeFama&&show_icons=true&theme=dark" alt="sifatnotes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sifatnotes&" alt="sifatnotes" /></p>
